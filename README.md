@@ -1,4 +1,5 @@
-# nayp3.github.io
+title: Welcome
+description: Nay Petrucelli's site
+theme: jekyll-theme-cayman
 
-Welcome to 
-github markdown
+
