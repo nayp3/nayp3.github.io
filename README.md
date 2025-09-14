@@ -1,6 +1,2 @@
----
-title: Welcome
-description: My site
-theme: jekyll-theme-cayman
----
+Welcome to my site 
 
