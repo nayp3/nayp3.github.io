@@ -1,10 +1,6 @@
 title: My Portfolio
 description: >- 
   A personal portfolio website showcasing projects and skills.
-baseurl: ""
 url: "https://nayp3.github.io"
-remote_theme: jeromelachaud/freelancer-theme
-plugins:
-  - jekyll-remote-theme
-github:
-  is_project_page: false
+theme: jekyll-theme-cayman
+
