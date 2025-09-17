@@ -11,9 +11,9 @@ layout: default
 
 ### Core Competencies
 
-'Business Analytics  |  Project Management  |  Cross-functional Collaboration  |  Process Improvement
-Data Governance & Stewardship  |  Data Integrity  |  Data Visualization  |  Presenting  |  Compliance
-System Adoption |  Workforce Planning  |  Human Resources'
+<p> Business Analytics  |  Project Management  |  Cross-functional Collaboration  |  Process Improvement </p>
+<p> Data Governance & Stewardship  |  Data Integrity  |  Data Visualization  |  Presenting  |  Compliance </p>
+<p>System Adoption |  Workforce Planning  |  Human Resources</p>
 
 ### Education
 
