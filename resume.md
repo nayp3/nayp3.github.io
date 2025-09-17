@@ -18,7 +18,7 @@ System Adoption |  Workforce Planning  |  Human Resources'
 ### Education
 
 **University of Illinois** Masters in Statistics forthcoming Dec 2025
-- Coursework in: traditional statistical methods and machine learning, computing in R, Python and SQL. University ranked in top 25 statistics masters programs in the United States.
+*Coursework in: traditional statistical methods and machine learning, computing in R, Python and SQL. University ranked in top 25 statistics masters programs in the United States.*
 - Currently conducting topic modeling, BERT modeling (NLP) research on United Nation speeches with Professor Gino Pauselli (final requirement)
 - Conducted research: "Governing the Taste of Thai: Complexity, Authenticity, & Institutional Dynamics in Gastrodiplomacy” with Phrueksaphong Visuthduangdusdee, PhD 
 - Summer visualization project in Tableau with Citizens for Juvenile Justice (Boston, MA)
