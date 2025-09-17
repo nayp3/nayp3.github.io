@@ -1,13 +1,11 @@
 ---
 layout: default
-modal-id: 1
-date: 2025-09-16
-img: cabin.png
-alt: image-alt
-project-date: January 2020
-client: The Client
-category: Web Development
-description: The description of the project
 
 ---
+
+## Welcome to Nay's personal site
+
+This site is a work in progress. For now, please check out my **resume** and a visual walkthrough of some of my experiences on my **projects** page (more to come). 
+
+I'd welcome requests to connect over coffee or Zoom. You can connect with me on **LinkedIN** or complete the form below. 
 
