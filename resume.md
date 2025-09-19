@@ -5,7 +5,7 @@ layout: default
 
 
 ## Nay Petrucelli
-
+<p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>
 ### Professional Summary
 *Strategic leader in Business and HR Analytics, with 5+ years of professional experience in data-informed decision-making and process improvement. Extensive work in data integrity, analysis and visualization. Highly collaborative, relationship-centered, with a strong sense of personal responsibility and integrity.*
 
