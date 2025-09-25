@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-## Welcome to Nay's personal site
+## Welcome. I'm glad you're here. 
 
 <p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>
 
