@@ -61,7 +61,7 @@ title: Portfolio
   </a>
 
   <a href="/projects/project2" class="portfolio-item">
-    <img src="/assets/img/project2.jpg" alt="Project 2">
+    <img src="/assets/img/project2.png" alt="Project 2">
     <div class="portfolio-caption">
       <h3>Project 2</h3>
     </div>
