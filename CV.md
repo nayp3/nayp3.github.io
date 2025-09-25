@@ -3,4 +3,4 @@ layout: default
 
 ---
 
-<a href="resume.pdf" download>Download My Curriculum Vitae (PDF)</a>
+<a href="CV NayPetrucelli_public.pdf" download>Download My Curriculum Vitae (PDF)</a>
