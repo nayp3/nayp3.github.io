@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Project 2
+title: DataThon
 ---
 
-# Project 2
+# DataThon
 
 Here is a detailed description of my second awesome project. 
