@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-## A little about me
+### A little about me
 
 My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance methodological approaches and/or contribute to a greater good, with a particular interest in policy and process evaluation.
 
