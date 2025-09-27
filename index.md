@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-[resume](https://nayp3.github.io/resume) | [CV](https://nayp3.github.io/CV) | [projects](https://nayp3.github.io/portfolio)
+Go to:   [resume](https://nayp3.github.io/resume)   [CV](https://nayp3.github.io/CV)   [projects](https://nayp3.github.io/portfolio)
 
 
 ### A little about me
