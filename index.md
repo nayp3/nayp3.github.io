@@ -3,7 +3,9 @@ layout: default
 
 ---
 
-<img src="/assets/img/OIP-678424935.jpg" alt="Author Photo"> 
+<div style="text-align: center;">
+  <img src="/assets/img/OIP-678424935.jpg" alt="Author Photo" width="150" height="150"> 
+</div>
 
 ### A little about me
 
