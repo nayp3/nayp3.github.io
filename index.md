@@ -3,7 +3,7 @@ layout: default
 
 ---
 
-<img src="/assets/img/OIP-678424935.jpg" alt="Author Photo"; vertical-align:middle;"> 
+<img src="/assets/img/OIP-678424935.jpg" alt="Author Photo"> 
 
 ### A little about me
 
