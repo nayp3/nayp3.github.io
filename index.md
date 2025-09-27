@@ -7,7 +7,7 @@ layout: default
 
 My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance methodological approaches and/or contribute to a greater good, with a particular interest in policy and process evaluation.
 
-<p align="center"><i><h3>This page is a work in progress. Please stay tuned for updates!</h3></i></p>
+<h3><p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p></h3>
 
 Please check out my [resume](https://nayp3.github.io/resume) and a visual walkthrough of some of my experiences on my [projects](https://nayp3.github.io/portfolio) page (more to come). 
 
