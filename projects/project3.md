@@ -1,4 +1,4 @@
 ---
 layout: default
-title: Master's Thesis
+title: Small Business Management Software in Python
 ---
