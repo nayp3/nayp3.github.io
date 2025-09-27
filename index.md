@@ -7,7 +7,7 @@ layout: default
 
 My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance methodological approaches and/or contribute to a greater good, with a particular interest in evaluating the effectiveness of policies and processes.
 
-<img src="/assets/images/OIP-678424935.jpg" alt="Author Photo" style="height:1em; vertical-align:middle;"> 
+<img src="/assets/img/OIP-678424935.jpg" alt="Author Photo" style="height:1em; vertical-align:middle;"> 
 
 <h3><p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p></h3>
 
