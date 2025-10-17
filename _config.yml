@@ -1,6 +1,8 @@
-title: Hi, thanks for stopping by. 
+title:  Nay Petrucelli's website.
 description: >- 
-  Nay Petrucelli's website.
+  Hi, thanks for stopping by.
 url: "https://nayp3.github.io"
-theme: jekyll-theme-cayman
-
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
