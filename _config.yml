@@ -1,8 +1,12 @@
-title:  Nay Petrucelli's website.
+title:  Nay Petrucelli
 description: >- 
-  Hi, thanks for stopping by.
+  Hi, thanks for stopping by. ☕ ☕
+# logo: 
 url: "https://nayp3.github.io"
 # theme: jekyll-theme-cayman
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
+
+
+🐎
