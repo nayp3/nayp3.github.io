@@ -8,12 +8,10 @@ Go to:   [resume](https://nayp3.github.io/resume)  🔹  [CV](https://nayp3.gith
 
 ### A little about me
 
-<clr-tooltip>
-  <clr-icon clrTooltipTrigger shape="info-circle" size="24"></clr-icon>
-  <clr-tooltip-content [clrPosition]="'top-right'" [clrSize]="'sm'">
-    This is a basic tooltip
-  </clr-tooltip-content>
-</clr-tooltip>
+<span class="tooltip">
+  <span class="tooltip-icon">ⓘ</span>
+  <span class="tooltip-text">This is a basic tooltip</span>
+</span>
 
 <!--I like being surrounded by chickens on a farm <br>
 I like that feeling of being on the Manhattan bridge, at night, and *Empire State of Mind* comes on <br>
