@@ -8,6 +8,17 @@ Go to:   [resume](https://nayp3.github.io/resume)  🔹  [CV](https://nayp3.gith
 
 ### A little about me
 
+<clr-tooltip>
+  <clr-icon clrTooltipTrigger shape="info-circle" size="24"></clr-icon>
+  <clr-tooltip-content [clrPosition]="'top-right'" [clrSize]="'sm'">
+    This is a basic tooltip
+  </clr-tooltip-content>
+</clr-tooltip>
+
+<!--I like being surrounded by chickens on a farm <br>
+I like that feeling of being on the Manhattan bridge, at night, and *Empire State of Mind* comes on <br>
+I like being a little lost in the woods, but not too much <br>
+I like -->
 My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance methodological approaches and contribute to a greater good, with a particular interest in machine learning methods in text analysis, especiially for evaluating outcomes of policies and processes.
 
 <!--
