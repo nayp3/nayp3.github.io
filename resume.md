@@ -4,9 +4,9 @@ layout: default
 ---
 Go [home](https://nayp3.github.io)
 
-<p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>\
+<p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>
 
-<p align="center">## Nay Petrucelli</p>
+## Nay Petrucelli
 
 
 ### Interests
