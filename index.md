@@ -15,11 +15,11 @@ I like being a little lost in the woods, but not too much <br>
 I like -->
 My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance methodological approaches and contribute to a greater good, with a particular interest in machine learning methods in text analysis, especiially for evaluating outcomes of policies and processes.
 
-
+<!--
 <div style="text-align: center;">
   <img src="/assets/img/9G3A0565.JPG" alt="NP's Photo" width="150" height="150"> 
 </div>
-
+-->
 
 
 
