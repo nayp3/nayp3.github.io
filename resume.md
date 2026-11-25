@@ -6,6 +6,7 @@ Go [home](https://nayp3.github.io)
 
 <p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>
 
+<div style="margin-bottom: 40px;"></div>
 ## Nay Petrucelli
 
 
