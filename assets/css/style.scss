@@ -8,3 +8,34 @@ body {
     background-color: #F5F3F0;
     color: #333333;
 }
+
+/* Main content area */
+.wrapper {
+    background-color: #ffffff;
+}
+
+/* Headings */
+h1, h2, h3 {
+    color: #243b53;
+}
+
+/* or separate them: 
+h1 {
+    color: #243b53;
+}
+
+h2 {
+    color: #2878a0;
+}
+
+h3 {
+    color: #555555;
+} */
+
+/* Image captions */
+figcaption {
+    font-size: 12px;
+    color: #777777;
+    margin-top: 5px;
+    text-align: center;
+}
