@@ -3,18 +3,19 @@ layout: default
 
 ---
 
-[[resume]](https://nayp3.github.io/resume)  [[CV]](https://nayp3.github.io/CV)  [[projects]](https://nayp3.github.io/portfolio)
+[[resume]](https://nayp3.github.io/resume)  |  [[CV]](https://nayp3.github.io/CV)  |  [[projects]](https://nayp3.github.io/portfolio)
 
-<div style="margin-bottom: 60px;"></div>
+<div style="margin-bottom: 45x;"></div>
 
-### Hi. Thanks for stopping by.
+## Hi. Thanks for stopping by.
 
+<div style="margin-bottom: 20px;"></div>
 
 <!--I like being surrounded by chickens on a farm <br>
 I like that feeling of being on the Manhattan bridge, at night, and *Empire State of Mind* comes on <br>
 I like being a little lost in the woods, but not too much <br>
 I like -->
-My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance methodological approaches and contribute to a greater good, with a particular interest in machine learning methods in text analysis, especiially for evaluating outcomes of policies and processes.
+My primary professional interest is to use data to uncover patterns humans can't see. I am interested in projects that advance human understanding & contribute to a greater good.
 
 <!--
 <div style="text-align: center;">
@@ -23,7 +24,7 @@ My primary professional interest is to use data to uncover patterns humans can't
 -->
 
 
-
+<div style="margin-bottom: 45x;"></div>
 
 <h3><p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p></h3>
 
