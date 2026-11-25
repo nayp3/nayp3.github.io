@@ -5,7 +5,7 @@ layout: default
 
 [[resume]](https://nayp3.github.io/resume)  [[CV]](https://nayp3.github.io/CV)  [[projects]](https://nayp3.github.io/portfolio)
 
-<div style="margin-bottom: 30px;"></div>
+<div style="margin-bottom: 60px;"></div>
 
 ### Hi. Thanks for stopping by.
 
