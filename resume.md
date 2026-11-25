@@ -4,8 +4,10 @@ layout: default
 ---
 Go [home](https://nayp3.github.io)
 
-## Nay Petrucelli
-<p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>
+<p align="center"><i>This page is a work in progress. Please stay tuned for updates!</i></p>\
+
+<p align="center">## Nay Petrucelli</p>
+
 
 ### Interests
 AI Safety & Strategy - Data for Good - Data for institutional decision-making - Policy Evaluation and Governance - Building a better world
@@ -34,7 +36,7 @@ AI Safety & Strategy - Data for Good - Data for institutional decision-making - 
 - Vera Institute of Justice Fellow; Salutatorian
 
 ### Certifications
-**BlueDot**  [AGI Strategy](https://bluedot.org/courses/agi-strategy)  Oct. 2026
+**BlueDot**  [AGI Strategy](https://bluedot.org/courses/agi-strategy)  Oct. 2026 <br />
 **Máximo Nivel** [Teaching English as a Foreign Language](https://maximonivel.com/what-its-really-like-to-get-tefl-costa-rica/) Dec. 2025
 
 ### Professional Experience - Analysis and Research
@@ -42,7 +44,7 @@ AI Safety & Strategy - Data for Good - Data for institutional decision-making - 
 **Technical University of Munich** - Data Scientist - June 2026-Present
 - Advance research across a broad range of domains with data science, statistics and critical thinking.
 
-**Indiana University** - Director of Data & Hiring Compliance (Promotion) - Oct 2022-Dec 2023
+**Indiana University** - Director of Data & Hiring Compliance (Promotion) - Oct 2022-Dec 2023 <br />
 **Indiana University Indianapolis** - Data & Compliance Specialist - Aug 2018-Sept 2022
 - Designed and managed large-scale, high-risk analytics projects end-to-end for institutional decision-making and program evaluation. Integrated diverse data sources with various methodological challenges
 - Created visualizations, white papers, and reports advising leadership  with and without accompanying live presentations
