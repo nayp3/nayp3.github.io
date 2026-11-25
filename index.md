@@ -5,8 +5,9 @@ layout: default
 
 [[resume]](https://nayp3.github.io/resume)  [[CV]](https://nayp3.github.io/CV)  [[projects]](https://nayp3.github.io/portfolio)
 
+<br>
 
-### A little about me
+### Hi. Thanks for stopping by.
 
 
 <!--I like being surrounded by chickens on a farm <br>
