@@ -13,12 +13,12 @@ Go [home](https://nayp3.github.io)
 ### Interests
 AI Safety & Strategy - Data for Good - Data for institutional decision-making - Policy Evaluation and Governance - Building a better world
 
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 30px;"></div>
 
 ### Professional Summary
 *Strategic leader in Analytics, with 5+ years of professional experience in data-informed decision-making and process improvement. Advanced technical training in statistics and data science. Extensive work in data integrity, analysis and visualization. Highly collaborative, relationship-centered, with a strong sense of personal responsibility and integrity.*
 
-<div style="margin-bottom: 20px;"></div>
+<div style="margin-bottom: 30px;"></div>
 
 ### Professional Experience - Analysis and Research
 
@@ -34,9 +34,13 @@ AI Safety & Strategy - Data for Good - Data for institutional decision-making - 
 - Bridged the technical gap between front-line staff and IT teams — translating business needs into technical questions and translating technical documentation and code into usable processes for end users
 - Invited to present at a national HR conference on our work embedding data analytics in strategic decision-making
 
+<div style="margin-bottom: 30px;"></div>
+
 ### Certifications
 **BlueDot**  [AGI Strategy](https://bluedot.org/courses/agi-strategy)  Oct. 2026 <br />
 **Máximo Nivel** [Teaching English as a Foreign Language](https://maximonivel.com/what-its-really-like-to-get-tefl-costa-rica/) Dec. 2025
+
+<div style="margin-bottom: 30px;"></div>
 
 ### Education
 
@@ -57,11 +61,6 @@ AI Safety & Strategy - Data for Good - Data for institutional decision-making - 
 **John Jay College of Criminal Justice** Bachelors in Criminal Justice May 2009
 - Vera Institute of Justice Fellow; Salutatorian
 
-<div style="margin-bottom: 20px;"></div>
-
-
-
-<div style="margin-bottom: 20px;"></div>
 
 
 
