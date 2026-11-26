@@ -20,6 +20,24 @@ AI Safety & Strategy - Data for Good - Data for institutional decision-making - 
 
 <div style="margin-bottom: 20px;"></div>
 
+### Professional Experience - Analysis and Research
+
+**Technical University of Munich** - Data Scientist - June 2026-Present
+- Advance research across a broad range of domains with data science, statistics and critical thinking.
+- Research on evaluating fully autonomous research systems
+
+**Indiana University** - Director of Data & Hiring Compliance (Promotion) - Oct 2022-Dec 2023 <br />
+**Indiana University Indianapolis** - Data & Compliance Specialist - Aug 2018-Sept 2022
+- Designed and managed large-scale, high-risk analytics projects end-to-end for institutional decision-making and program evaluation. Integrated diverse data sources with various methodological challenges
+- Created visualizations, white papers, and reports advising leadership  with and without accompanying live presentations
+- Managed campus exit survey given to all exiting employees. Increased response rate by 29% and built dashboards for analysis
+- Bridged the technical gap between front-line staff and IT teams — translating business needs into technical questions and translating technical documentation and code into usable processes for end users
+- Invited to present at a national HR conference on our work embedding data analytics in strategic decision-making
+
+### Certifications
+**BlueDot**  [AGI Strategy](https://bluedot.org/courses/agi-strategy)  Oct. 2026 <br />
+**Máximo Nivel** [Teaching English as a Foreign Language](https://maximonivel.com/what-its-really-like-to-get-tefl-costa-rica/) Dec. 2025
+
 ### Education
 
 **University of Illinois** Masters in Statistics Dec 2025 <br />
@@ -41,24 +59,10 @@ AI Safety & Strategy - Data for Good - Data for institutional decision-making - 
 
 <div style="margin-bottom: 20px;"></div>
 
-### Certifications
-**BlueDot**  [AGI Strategy](https://bluedot.org/courses/agi-strategy)  Oct. 2026 <br />
-**Máximo Nivel** [Teaching English as a Foreign Language](https://maximonivel.com/what-its-really-like-to-get-tefl-costa-rica/) Dec. 2025
+
 
 <div style="margin-bottom: 20px;"></div>
 
-### Professional Experience - Analysis and Research
-
-**Technical University of Munich** - Data Scientist - June 2026-Present
-- Advance research across a broad range of domains with data science, statistics and critical thinking.
-
-**Indiana University** - Director of Data & Hiring Compliance (Promotion) - Oct 2022-Dec 2023 <br />
-**Indiana University Indianapolis** - Data & Compliance Specialist - Aug 2018-Sept 2022
-- Designed and managed large-scale, high-risk analytics projects end-to-end for institutional decision-making and program evaluation. Integrated diverse data sources with various methodological challenges
-- Created visualizations, white papers, and reports advising leadership  with and without accompanying live presentations
-- Managed campus exit survey given to all exiting employees. Increased response rate by 29% and built dashboards for analysis
-- Bridged the technical gap between front-line staff and IT teams — translating business needs into technical questions and translating technical documentation and code into usable processes for end users
-- Invited to present at a national HR conference on our work embedding data analytics in strategic decision-making
 
 
 
